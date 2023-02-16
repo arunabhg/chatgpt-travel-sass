@@ -47,7 +47,7 @@ function App() {
 					</div>
 					<br />
 					<div>
-						En-route:{" "}
+						Via:{" "}
 						<input
 							placeholder="En-route"
 							value={enRoute}
