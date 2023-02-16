@@ -16,6 +16,6 @@ In the second terminal, give command `npm start` to start the frontend. This wil
 
 ### How to Get Output
 
-Go to the opened project in the browser, enter the Journey From, Journey To, Via and Journey Date. After a few seconds, the bot will lay out the full travel itinerary for the data entered.
+Go to the opened project in the browser, enter the Journey From, Journey To, Via and Journey Date. After a few seconds, the bot will give the full travel itinerary for the data entered.
 
 
